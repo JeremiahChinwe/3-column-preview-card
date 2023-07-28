@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [See Solution Here](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub?share=true)
+- Live Site URL: [Deployed to Vercel](https://3-column-preview-card-pearl.vercel.app/)
 
 ## My process
 
